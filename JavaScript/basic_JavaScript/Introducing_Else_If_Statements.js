@@ -5,7 +5,7 @@ function testElseIf(val) {
         return "Greater than 10";
     }
 
-    if (val < 5) {
+    else if (val < 5) {
         return "Smaller than 5";
     }
 
